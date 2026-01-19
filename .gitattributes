@@ -1,0 +1,5 @@
+# Ignore the shell script for language statistics
+*.sh linguist-detectable=false
+
+# Ensure all .sql files are counted as SQL
+*.sql linguist-detectable=true
