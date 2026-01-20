@@ -7,7 +7,7 @@
 ## 📖 Overview
 This project was developed for the **Database Systems** course at the **University of Minho**. The goal was to design and implement a complete SQL-based solution for **NOMÁLIA**, a digital platform dedicated to world travelers.
 
-The system handles everything from user registration and trip logging to social interactions like comments, likes, and a localized "points" reward system.
+The system handles everything from user registration and trip logging to social interactions like comments and a localized "points" reward system.
 
 ## 🛠️ Tech Stack & Features
 - **Database:** MySQL
