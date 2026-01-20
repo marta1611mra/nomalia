@@ -30,7 +30,7 @@ Implemented three distinct access levels:
 - **utilizador:** Standard interaction permissions.
 
 ## 🚀 How to Run
-1. **Schema:** Run `scripts/creation.sql` to build the tables and constraints.
+1. **Schema:** Run `scripts/creation.sql` to build the tables.
 2. **Business Logic:** Run `scripts/procedures_trigger.sql` to load procedures and triggers.
 3. **Security:** Run `scripts/roles.sql` to set up user roles and access permissions (RBAC).
 4. **Data:** Run `data/povoamento.sql` to populate the database with sample data.
