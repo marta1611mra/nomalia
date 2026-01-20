@@ -25,7 +25,7 @@ The system handles everything from user registration and trip logging to social 
 - **/docs**: Technical documentation and final report.
 
 ### 👤 Access Control (RBAC)
-Implemented three distinct access levels:
+Implemented two distinct access levels:
 - **admistrador:** Full system control.
 - **utilizador:** Standard interaction permissions.
 
