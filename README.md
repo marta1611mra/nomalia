@@ -11,6 +11,8 @@ The system handles everything from user registration and trip logging to social 
 
 ## ⭐️ Final Grade: 15/20  
 
+---
+
 ## 🛠️ Tech Stack & Features
 - **Database:** MySQL
 - **Modeling:** EER (Enhanced Entity-Relationship) Modeling
