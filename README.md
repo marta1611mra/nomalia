@@ -9,6 +9,8 @@ This project was developed for the **Database Systems** course at the **Universi
 
 The system handles everything from user registration and trip logging to social interactions like comments and a localized "points" reward system.
 
+## ⭐️ Final Grade: 15/20  
+
 ## 🛠️ Tech Stack & Features
 - **Database:** MySQL
 - **Modeling:** EER (Enhanced Entity-Relationship) Modeling
