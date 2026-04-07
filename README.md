@@ -1,4 +1,6 @@
 # 🌍 NOMÁLIA - Database System Implementation
+<img width="446" height="210" alt="image" src="https://github.com/user-attachments/assets/66a1b413-ae3f-4998-ba0c-8692c45f9cff" />
+
 
 > **"Travel, Record, Live"** — A robust relational database system designed to manage travel experiences, user interactions, and memories.
 
