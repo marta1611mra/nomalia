@@ -42,3 +42,4 @@ Implemented two distinct access levels:
 4. **Data:** Run `data/povoamento.sql` to populate the database with sample data.
 5. **Testing:** Run the examples in `queries/queries.sql` to verify the system.
 *(Optional) To perform a manual backup, execute `bash automation/backup_nomalia.sh` in your terminal.*
+   
