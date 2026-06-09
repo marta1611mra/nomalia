@@ -7,7 +7,7 @@
 ---
 
 ## 📖 Overview
-This project was developed for the **Database Systems** course at the **University of Minho**. The goal was to design and implement a complete SQL-based solution for **NOMÁLIA**, a digital platform dedicated to world travelers.
+This project was developed for the **Database Systems** course at the **University of Minho**. The goal was to design and implement a complete SQL-based solution for **NOMÁLIA**, a digital platform dedicated to world travelers. It was developed in collaboration with [@t3r3s-a](https://github.com/t3r3s-a), [@svmarques](https://github.com/svmarques) and [@apatriciamachado](https://github.com/apatriciamachado).
 
 The system handles everything from user registration and trip logging to social interactions like comments and a localized "points" reward system.
 
